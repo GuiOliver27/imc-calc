@@ -22,7 +22,7 @@ Javascript, Vite.js, React.js, Google Fonts
 </div>
 
 ## Site do App
-Para acessar o app [Clique Aqui](https://play-song-app.netlify.app/)
+Acesse [aqui](https://imc-calc-app.netlify.app/)
 
 ## Licença
 
