@@ -17,7 +17,9 @@ Javascript, Vite.js, React.js, Google Fonts
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/37091987/199602978-f5d1648b-7537-41ae-932c-865a84b293dd.png" width="500px" />
+</div>
 
 ## Licença
 
